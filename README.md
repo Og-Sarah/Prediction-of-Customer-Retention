@@ -1,1 +1,2 @@
 # Prediction-of-Customer-Retention
+This is a project on prediction of customer retention in an e-retail store. Eight Machine Learning and Deep Learning algorithms were used to predict customer retention and the most effeicient model (based on ROC-AUC Score) was a novel hybrid model which combined both Random Forest Classifier and XGBoost. Another novel model used was the transformers model from attention mechanism and this is the first time the attention mechanism is being used on an e-retail dataset.
